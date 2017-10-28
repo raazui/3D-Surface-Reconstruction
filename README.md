@@ -1,10 +1,9 @@
 3D-Surface-Reconstruction
 =========================
-An attempt to implement several 3D surface reconstruction algorithms using meta-hueristic optimization techniques
-and various surface reconstruction algorithms.
+An implementation of a particle swarm approach to 3D surface fitting algorithms.
 
 Current list of algorithms availible:
-None
+PSO-NURBS
 
-UOIT Graduate Thesis project
-by Syed Rizvi
+UOIT Computer Vision and Games Final Project
+by Syed Raazi Rizvi
